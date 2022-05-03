@@ -1,0 +1,26 @@
+img {
+    display: block;
+    margin: 0px auto;
+}
+img {
+    height: 50%;
+    width: 50%;
+    object-fit: contain;
+}
+.cat {
+    height:100px;
+    width: 100px;
+}
+.parent{
+    text-align : center;
+}
+h1{
+    color: #0a0a0a; size: 30px;
+    font-family: "Yu Gothic";
+    font-weight: bold;
+}
+body{
+    font-family: "Yu Gothic";
+    background: linear-gradient(to right,#ffefe1,#fff8ba);
+    font-size: 0.8cm;
+}

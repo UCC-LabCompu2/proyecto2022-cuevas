@@ -1,0 +1,17 @@
+
+img{
+    display: block;
+    margin: 0px auto;
+}
+.parent{
+    text-align : center;
+}
+h1{
+    color: #0a0a0a; size: 30px;
+    font-family: "Yu Gothic";
+    font-weight: bold;
+}
+body{
+    font-family: "Yu Gothic";
+    background: linear-gradient(to right, #ffffff, #fff8ba);
+}
